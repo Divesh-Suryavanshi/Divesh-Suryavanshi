@@ -31,9 +31,9 @@
     <tbody>
         <tr valign="top">
             <td width="80px" align="center">
-            <span><strong>Java</strong></span><br>
+            <span><strong>C++</strong></span><br>
             <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
-            <img height="32px" src="https://www.pngfind.com/pngs/m/74-744402_java-logo-png-transparent-svg-vector-freebie-supply.png"></a>
+            <img height="32px" src="https://pngtree.com/freepng/colorful-c-icon-vector-illustration-of-a-prominent-programming-language-vector_10582572.html"></a>
             </td>
             <!--td width="80px" align="center">
             <span><strong>Bootstrap</strong></span><br>
