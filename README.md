@@ -75,6 +75,11 @@
             <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
             <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/MySQL_textlogo.svg/2560px-MySQL_textlogo.svg.png"></a>
             </td>
+          <td width="80px" align="center">
+            <span><strong>MongoDB</strong></span><br>
+            <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"></a>
+            </td>
         </tr>
     </tbody>
 </table>
